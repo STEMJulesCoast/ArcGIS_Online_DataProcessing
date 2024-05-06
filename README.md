@@ -20,4 +20,4 @@ Das Skript kann heruntergeladen werden und innerhalb des eigenen ArcGIS online A
 
 Das Skript dient nur als Veranschaulichung des Prozesses und kann individuell auf ihre Daten angewendet werden. Bei den Daten, auf die über das Notebook zugegriffen wird, handelt es sich um reine Testdaten. 
 
-Weitere informationen in unserer Storymap [CO2-Monitor](https://storymaps.arcgis.com/stories/41bfaf7261c642f49b60ad15a3e1a6dc)
+Weitere Informationen in unserer Storymap [CO2-Monitor](https://storymaps.arcgis.com/stories/41bfaf7261c642f49b60ad15a3e1a6dc)
